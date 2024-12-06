@@ -1,0 +1,21 @@
+
+@import url("styles/header.css");
+@import url("styles/banner.css");
+@import url("styles/carossel.css");
+
+
+
+
+:root {
+    --cor-de-fundo: #112d64;
+    --branco:#b50d0d;
+     --laranja:#996107;
+     
+}
+
+body{
+
+background-color:rgb(49, 2, 2);
+
+}
+
